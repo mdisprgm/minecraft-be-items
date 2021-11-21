@@ -2,592 +2,592 @@
 Minecraft Bedrock Edition Items IDs List
 
 <br>
-
-<br>ID: 0, Name: minecraft:air
-<br>ID: 1, Name: minecraft:stone
-<br>ID: 2, Name: minecraft:grass
-<br>ID: 3, Name: minecraft:dirt
-<br>ID: 4, Name: minecraft:cobblestone
-<br>ID: 5, Name: minecraft:planks
-<br>ID: 6, Name: minecraft:sapling
-<br>ID: 7, Name: minecraft:bedrock
-<br>ID: 8, Name: minecraft:flowing_water
-<br>ID: 9, Name: minecraft:water
-<br>ID: 10, Name: minecraft:flowing_lava
-<br>ID: 11, Name: minecraft:lava
-<br>ID: 12, Name: minecraft:sand
-<br>ID: 13, Name: minecraft:gravel
-<br>ID: 14, Name: minecraft:gold_ore
-<br>ID: 15, Name: minecraft:iron_ore
-<br>ID: 16, Name: minecraft:coal_ore
-<br>ID: 17, Name: minecraft:log
-<br>ID: 18, Name: minecraft:leaves
-<br>ID: 19, Name: minecraft:sponge
-<br>ID: 20, Name: minecraft:glass
-<br>ID: 21, Name: minecraft:lapis_ore
-<br>ID: 22, Name: minecraft:lapis_block
-<br>ID: 23, Name: minecraft:dispenser
-<br>ID: 24, Name: minecraft:sandstone
-<br>ID: 25, Name: minecraft:noteblock
-<br>ID: 26, Name: minecraft:bed
-<br>ID: 27, Name: minecraft:golden_rail
-<br>ID: 28, Name: minecraft:detector_rail
-<br>ID: 29, Name: minecraft:sticky_piston
-<br>ID: 30, Name: minecraft:web
-<br>ID: 31, Name: minecraft:tallgrass
-<br>ID: 32, Name: minecraft:deadbush
-<br>ID: 33, Name: minecraft:piston
-<br>ID: 34, Name: minecraft:pistonarmcollision
-<br>ID: 35, Name: minecraft:wool
-<br>
-<br>ID: 37, Name: minecraft:yellow_flower
-<br>ID: 38, Name: minecraft:red_flower
-<br>ID: 39, Name: minecraft:brown_mushroom
-<br>ID: 40, Name: minecraft:red_mushroom
-<br>ID: 41, Name: minecraft:gold_block
-<br>ID: 42, Name: minecraft:iron_block
-<br>ID: 43, Name: minecraft:double_stone_slab
-<br>ID: 44, Name: minecraft:stone_slab
-<br>ID: 45, Name: minecraft:brick_block
-<br>ID: 46, Name: minecraft:tnt
-<br>ID: 47, Name: minecraft:bookshelf
-<br>ID: 48, Name: minecraft:mossy_cobblestone
-<br>ID: 49, Name: minecraft:obsidian
-<br>ID: 50, Name: minecraft:torch
-<br>ID: 51, Name: minecraft:fire
-<br>ID: 52, Name: minecraft:mob_spawner
-<br>ID: 53, Name: minecraft:oak_stairs
-<br>ID: 54, Name: minecraft:chest
-<br>ID: 55, Name: minecraft:redstone_wire
-<br>ID: 56, Name: minecraft:diamond_ore
-<br>ID: 57, Name: minecraft:diamond_block
-<br>ID: 58, Name: minecraft:crafting_table
-<br>ID: 59, Name: minecraft:wheat
-<br>ID: 60, Name: minecraft:farmland
-<br>ID: 61, Name: minecraft:furnace
-<br>ID: 62, Name: minecraft:lit_furnace
-<br>ID: 63, Name: minecraft:standing_sign
-<br>ID: 64, Name: minecraft:wooden_door
-<br>ID: 65, Name: minecraft:ladder
-<br>ID: 66, Name: minecraft:rail
-<br>ID: 67, Name: minecraft:stone_stairs
-<br>ID: 68, Name: minecraft:wall_sign
-<br>ID: 69, Name: minecraft:lever
-<br>ID: 70, Name: minecraft:stone_pressure_plate
-<br>ID: 71, Name: minecraft:iron_door
-<br>ID: 72, Name: minecraft:wooden_pressure_plate
-<br>ID: 73, Name: minecraft:redstone_ore
-<br>ID: 74, Name: minecraft:lit_redstone_ore
-<br>ID: 75, Name: minecraft:unlit_redstone_torch
-<br>ID: 76, Name: minecraft:redstone_torch
-<br>ID: 77, Name: minecraft:stone_button
-<br>ID: 78, Name: minecraft:snow_layer
-<br>ID: 79, Name: minecraft:ice
-<br>ID: 80, Name: minecraft:snow
-<br>ID: 81, Name: minecraft:cactus
-<br>ID: 82, Name: minecraft:clay
-<br>ID: 83, Name: minecraft:reeds
-<br>ID: 84, Name: minecraft:jukebox
-<br>ID: 85, Name: minecraft:fence
-<br>ID: 86, Name: minecraft:pumpkin
-<br>ID: 87, Name: minecraft:netherrack
-<br>ID: 88, Name: minecraft:soul_sand
-<br>ID: 89, Name: minecraft:glowstone
-<br>ID: 90, Name: minecraft:portal
-<br>ID: 91, Name: minecraft:lit_pumpkin
-<br>ID: 92, Name: minecraft:cake
-<br>ID: 93, Name: minecraft:unpowered_repeater
-<br>ID: 94, Name: minecraft:powered_repeater
-<br>ID: 95, Name: minecraft:invisiblebedrock
-<br>ID: 96, Name: minecraft:trapdoor
-<br>ID: 97, Name: minecraft:monster_egg
-<br>ID: 98, Name: minecraft:stonebrick
-<br>ID: 99, Name: minecraft:brown_mushroom_block
-<br>ID: 100, Name: minecraft:red_mushroom_block
-<br>ID: 101, Name: minecraft:iron_bars
-<br>ID: 102, Name: minecraft:glass_pane
-<br>ID: 103, Name: minecraft:melon_block
-<br>ID: 104, Name: minecraft:pumpkin_stem
-<br>ID: 105, Name: minecraft:melon_stem
-<br>ID: 106, Name: minecraft:vine
-<br>ID: 107, Name: minecraft:fence_gate
-<br>ID: 108, Name: minecraft:brick_stairs
-<br>ID: 109, Name: minecraft:stone_brick_stairs
-<br>ID: 110, Name: minecraft:mycelium
-<br>ID: 111, Name: minecraft:waterlily
-<br>ID: 112, Name: minecraft:nether_brick
-<br>ID: 113, Name: minecraft:nether_brick_fence
-<br>ID: 114, Name: minecraft:nether_brick_stairs
-<br>ID: 115, Name: minecraft:nether_wart
-<br>ID: 116, Name: minecraft:enchanting_table
-<br>ID: 117, Name: minecraft:brewing_stand
-<br>ID: 118, Name: minecraft:cauldron
-<br>ID: 119, Name: minecraft:end_portal
-<br>ID: 120, Name: minecraft:end_portal_frame
-<br>ID: 121, Name: minecraft:end_stone
-<br>ID: 122, Name: minecraft:dragon_egg
-<br>ID: 123, Name: minecraft:redstone_lamp
-<br>ID: 124, Name: minecraft:lit_redstone_lamp
-<br>ID: 125, Name: minecraft:dropper
-<br>ID: 126, Name: minecraft:activator_rail
-<br>ID: 127, Name: minecraft:cocoa
-<br>ID: 128, Name: minecraft:sandstone_stairs
-<br>ID: 129, Name: minecraft:emerald_ore
-<br>ID: 130, Name: minecraft:ender_chest
-<br>ID: 131, Name: minecraft:tripwire_hook
-<br>ID: 132, Name: minecraft:tripwire
-<br>ID: 133, Name: minecraft:emerald_block
-<br>ID: 134, Name: minecraft:spruce_stairs
-<br>ID: 135, Name: minecraft:birch_stairs
-<br>ID: 136, Name: minecraft:jungle_stairs
-<br>ID: 137, Name: minecraft:command_block
-<br>ID: 138, Name: minecraft:beacon
-<br>ID: 139, Name: minecraft:cobblestone_wall
-<br>ID: 140, Name: minecraft:flower_pot
-<br>ID: 141, Name: minecraft:carrots
-<br>ID: 142, Name: minecraft:potatoes
-<br>ID: 143, Name: minecraft:wooden_button
-<br>ID: 144, Name: minecraft:skull
-<br>ID: 145, Name: minecraft:anvil
-<br>ID: 146, Name: minecraft:trapped_chest
-<br>ID: 147, Name: minecraft:light_weighted_pressure_plate
-<br>ID: 148, Name: minecraft:heavy_weighted_pressure_plate
-<br>ID: 149, Name: minecraft:unpowered_comparator
-<br>ID: 150, Name: minecraft:powered_comparator
-<br>ID: 151, Name: minecraft:daylight_detector
-<br>ID: 152, Name: minecraft:redstone_block
-<br>ID: 153, Name: minecraft:quartz_ore
-<br>ID: 154, Name: minecraft:hopper
-<br>ID: 155, Name: minecraft:quartz_block
-<br>ID: 156, Name: minecraft:quartz_stairs
-<br>ID: 157, Name: minecraft:double_wooden_slab
-<br>ID: 158, Name: minecraft:wooden_slab
-<br>ID: 159, Name: minecraft:stained_hardened_clay
-<br>ID: 160, Name: minecraft:stained_glass_pane
-<br>ID: 161, Name: minecraft:leaves2
-<br>ID: 162, Name: minecraft:log2
-<br>ID: 163, Name: minecraft:acacia_stairs
-<br>ID: 164, Name: minecraft:dark_oak_stairs
-<br>ID: 165, Name: minecraft:slime
-<br>
-<br>ID: 167, Name: minecraft:iron_trapdoor
-<br>ID: 168, Name: minecraft:prismarine
-<br>ID: 169, Name: minecraft:sealantern
-<br>ID: 170, Name: minecraft:hay_block
-<br>ID: 171, Name: minecraft:carpet
-<br>ID: 172, Name: minecraft:hardened_clay
-<br>ID: 173, Name: minecraft:coal_block
-<br>ID: 174, Name: minecraft:packed_ice
-<br>ID: 175, Name: minecraft:double_plant
-<br>ID: 176, Name: minecraft:standing_banner
-<br>ID: 177, Name: minecraft:wall_banner
-<br>ID: 178, Name: minecraft:daylight_detector_inverted
-<br>ID: 179, Name: minecraft:red_sandstone
-<br>ID: 180, Name: minecraft:red_sandstone_stairs
-<br>ID: 181, Name: minecraft:double_stone_slab2
-<br>ID: 182, Name: minecraft:stone_slab2
-<br>ID: 183, Name: minecraft:spruce_fence_gate
-<br>ID: 184, Name: minecraft:birch_fence_gate
-<br>ID: 185, Name: minecraft:jungle_fence_gate
-<br>ID: 186, Name: minecraft:dark_oak_fence_gate
-<br>ID: 187, Name: minecraft:acacia_fence_gate
-<br>ID: 188, Name: minecraft:repeating_command_block
-<br>ID: 189, Name: minecraft:chain_command_block
-<br>ID: 190, Name: minecraft:hard_glass_pane
-<br>
-<br>ID: 192, Name: minecraft:chemical_heat
-<br>ID: 193, Name: minecraft:spruce_door
-<br>ID: 194, Name: minecraft:birch_door
-<br>ID: 195, Name: minecraft:jungle_door
-<br>ID: 196, Name: minecraft:acacia_door
-<br>ID: 197, Name: minecraft:dark_oak_door
-<br>ID: 198, Name: minecraft:grass_path
-<br>ID: 199, Name: minecraft:frame
-<br>ID: 200, Name: minecraft:chorus_flower
-<br>ID: 201, Name: minecraft:purpur_block
-<br>ID: 203, Name: minecraft:purpur_stairs
-<br>ID: 205, Name: minecraft:undyed_shulker_box
-<br>ID: 206, Name: minecraft:end_bricks
-<br>ID: 207, Name: minecraft:frosted_ice
-<br>ID: 208, Name: minecraft:end_rod
-<br>ID: 209, Name: minecraft:end_gateway
-<br>ID: 210, Name: minecraft:allow
-<br>ID: 211, Name: minecraft:deny
-<br>ID: 212, Name: minecraft:border_block
-<br>ID: 213, Name: minecraft:magma
-<br>ID: 214, Name: minecraft:nether_wart_block
-<br>ID: 215, Name: minecraft:red_nether_brick
-<br>ID: 216, Name: minecraft:bone_block
-<br>ID: 217, Name: minecraft:structure_void
-<br>ID: 218, Name: minecraft:shulker_box
-<br>ID: 219, Name: minecraft:purple_glazed_terracotta
-<br>ID: 220, Name: minecraft:white_glazed_terracotta
-<br>ID: 221, Name: minecraft:orange_glazed_terracotta
-<br>ID: 222, Name: minecraft:magenta_glazed_terracotta
-<br>ID: 223, Name: minecraft:light_blue_glazed_terracotta
-<br>ID: 224, Name: minecraft:yellow_glazed_terracotta
-<br>ID: 225, Name: minecraft:lime_glazed_terracotta
-<br>ID: 226, Name: minecraft:pink_glazed_terracotta
-<br>ID: 227, Name: minecraft:gray_glazed_terracotta
-<br>ID: 228, Name: minecraft:silver_glazed_terracotta
-<br>ID: 229, Name: minecraft:cyan_glazed_terracotta
-<br>ID: 231, Name: minecraft:blue_glazed_terracotta
-<br>ID: 232, Name: minecraft:brown_glazed_terracotta
-<br>ID: 233, Name: minecraft:green_glazed_terracotta
-<br>ID: 234, Name: minecraft:red_glazed_terracotta
-<br>ID: 235, Name: minecraft:black_glazed_terracotta
-<br>ID: 236, Name: minecraft:concrete
-<br>ID: 237, Name: minecraft:concretepowder
-<br>ID: 239, Name: minecraft:underwater_torch
-<br>ID: 240, Name: minecraft:chorus_plant
-<br>ID: 241, Name: minecraft:stained_glass
-<br>ID: 242, Name: minecraft:camera
-<br>ID: 243, Name: minecraft:podzol
-<br>ID: 244, Name: minecraft:beetroot
-<br>ID: 245, Name: minecraft:stonecutter
-<br>ID: 246, Name: minecraft:glowingobsidian
-<br>ID: 247, Name: minecraft:netherreactor
-<br>ID: 248, Name: minecraft:info_update
-<br>ID: 249, Name: minecraft:info_update2
-<br>ID: 250, Name: minecraft:movingblock
-<br>ID: 251, Name: minecraft:observer
-<br>ID: 252, Name: minecraft:structure_block
-<br>ID: 253, Name: minecraft:hard_glass
-<br>ID: 255, Name: minecraft:reserved6
-<br>ID: 257, Name: minecraft:apple
-<br>ID: 258, Name: minecraft:golden_apple
-<br>ID: 259, Name: minecraft:enchanted_golden_apple
-<br>ID: 260, Name: minecraft:mushroom_stew
-<br>ID: 261, Name: minecraft:bread
-<br>ID: 262, Name: minecraft:porkchop
-<br>ID: 263, Name: minecraft:cooked_porkchop
-<br>ID: 264, Name: minecraft:cod
-<br>ID: 265, Name: minecraft:salmon
-<br>ID: 266, Name: minecraft:tropical_fish
-<br>ID: 267, Name: minecraft:pufferfish
-<br>ID: 268, Name: minecraft:cooked_cod
-<br>ID: 269, Name: minecraft:cooked_salmon
-<br>ID: 270, Name: minecraft:dried_kelp
-<br>ID: 271, Name: minecraft:cookie
-<br>ID: 272, Name: minecraft:melon_slice
-<br>ID: 273, Name: minecraft:beef
-<br>ID: 274, Name: minecraft:cooked_beef
-<br>ID: 275, Name: minecraft:chicken
-<br>ID: 276, Name: minecraft:cooked_chicken
-<br>ID: 277, Name: minecraft:rotten_flesh
-<br>ID: 278, Name: minecraft:spider_eye
-<br>ID: 279, Name: minecraft:carrot
-<br>ID: 280, Name: minecraft:potato
-<br>ID: 281, Name: minecraft:baked_potato
-<br>ID: 282, Name: minecraft:poisonous_potato
-<br>ID: 283, Name: minecraft:golden_carrot
-<br>ID: 284, Name: minecraft:pumpkin_pie
-<br>ID: 285, Name: minecraft:beetroot
-<br>ID: 286, Name: minecraft:beetroot_soup
-<br>ID: 287, Name: minecraft:sweet_berries
-<br>ID: 288, Name: minecraft:rabbit
-<br>ID: 289, Name: minecraft:cooked_rabbit
-<br>ID: 290, Name: minecraft:rabbit_stew
-<br>ID: 291, Name: minecraft:wheat_seeds
-<br>ID: 292, Name: minecraft:pumpkin_seeds
-<br>ID: 293, Name: minecraft:melon_seeds
-<br>ID: 294, Name: minecraft:nether_wart
-<br>ID: 295, Name: minecraft:beetroot_seeds
-<br>ID: 296, Name: minecraft:iron_shovel
-<br>ID: 297, Name: minecraft:iron_pickaxe
-<br>ID: 298, Name: minecraft:iron_axe
-<br>ID: 299, Name: minecraft:flint_and_steel
-<br>ID: 300, Name: minecraft:bow
-<br>ID: 301, Name: minecraft:arrow
-<br>ID: 302, Name: minecraft:coal
-<br>ID: 303, Name: minecraft:charcoal
-<br>ID: 304, Name: minecraft:diamond
-<br>ID: 305, Name: minecraft:iron_ingot
-<br>ID: 306, Name: minecraft:gold_ingot
-<br>ID: 307, Name: minecraft:iron_sword
-<br>ID: 308, Name: minecraft:wooden_sword
-<br>ID: 309, Name: minecraft:wooden_shovel
-<br>ID: 310, Name: minecraft:wooden_pickaxe
-<br>ID: 311, Name: minecraft:wooden_axe
-<br>ID: 312, Name: minecraft:stone_sword
-<br>ID: 313, Name: minecraft:stone_shovel
-<br>ID: 314, Name: minecraft:stone_pickaxe
-<br>ID: 315, Name: minecraft:stone_axe
-<br>ID: 316, Name: minecraft:diamond_sword
-<br>ID: 317, Name: minecraft:diamond_shovel
-<br>ID: 318, Name: minecraft:diamond_pickaxe
-<br>ID: 319, Name: minecraft:diamond_axe
-<br>ID: 320, Name: minecraft:stick
-<br>ID: 321, Name: minecraft:bowl
-<br>ID: 322, Name: minecraft:golden_sword
-<br>ID: 323, Name: minecraft:golden_shovel
-<br>ID: 324, Name: minecraft:golden_pickaxe
-<br>ID: 325, Name: minecraft:golden_axe
-<br>ID: 326, Name: minecraft:string
-<br>ID: 327, Name: minecraft:feather
-<br>ID: 328, Name: minecraft:gunpowder
-<br>ID: 329, Name: minecraft:wooden_hoe
-<br>ID: 330, Name: minecraft:stone_hoe
-<br>ID: 331, Name: minecraft:iron_hoe
-<br>ID: 332, Name: minecraft:diamond_hoe
-<br>ID: 333, Name: minecraft:golden_hoe
-<br>ID: 334, Name: minecraft:wheat
-<br>ID: 335, Name: minecraft:leather_helmet
-<br>ID: 336, Name: minecraft:leather_chestplate
-<br>ID: 337, Name: minecraft:leather_leggings
-<br>ID: 338, Name: minecraft:leather_boots
-<br>ID: 339, Name: minecraft:chainmail_helmet
-<br>ID: 340, Name: minecraft:chainmail_chestplate
-<br>ID: 341, Name: minecraft:chainmail_leggings
-<br>ID: 342, Name: minecraft:chainmail_boots
-<br>ID: 343, Name: minecraft:iron_helmet
-<br>ID: 344, Name: minecraft:iron_chestplate
-<br>ID: 345, Name: minecraft:iron_leggings
-<br>ID: 346, Name: minecraft:iron_boots
-<br>ID: 347, Name: minecraft:diamond_helmet
-<br>ID: 348, Name: minecraft:diamond_chestplate
-<br>ID: 349, Name: minecraft:diamond_leggings
-<br>ID: 350, Name: minecraft:diamond_boots
-<br>ID: 351, Name: minecraft:golden_helmet
-<br>ID: 352, Name: minecraft:golden_chestplate
-<br>ID: 353, Name: minecraft:golden_leggings
-<br>ID: 354, Name: minecraft:golden_boots
-<br>ID: 355, Name: minecraft:shield
-<br>ID: 356, Name: minecraft:flint
-<br>ID: 357, Name: minecraft:painting
-<br>ID: 358, Name: minecraft:oak_sign
-<br>ID: 359, Name: minecraft:wooden_door
-<br>ID: 360, Name: minecraft:bucket
-<br>ID: 361, Name: minecraft:milk_bucket
-<br>ID: 362, Name: minecraft:water_bucket
-<br>ID: 363, Name: minecraft:lava_bucket
-<br>ID: 364, Name: minecraft:cod_bucket
-<br>ID: 365, Name: minecraft:salmon_bucket
-<br>ID: 366, Name: minecraft:tropical_fish_bucket
-<br>ID: 367, Name: minecraft:pufferfish_bucket
-<br>ID: 368, Name: minecraft:powder_snow_bucket
-<br>ID: 369, Name: minecraft:axolotl_bucket
-<br>ID: 370, Name: minecraft:minecart
-<br>ID: 371, Name: minecraft:saddle
-<br>ID: 372, Name: minecraft:iron_door
-<br>ID: 373, Name: minecraft:redstone
-<br>ID: 374, Name: minecraft:snowball
-<br>ID: 375, Name: minecraft:oak_boat
-<br>ID: 376, Name: minecraft:birch_boat
-<br>ID: 377, Name: minecraft:jungle_boat
-<br>ID: 378, Name: minecraft:spruce_boat
-<br>ID: 379, Name: minecraft:acacia_boat
-<br>ID: 380, Name: minecraft:dark_oak_boat
-<br>ID: 381, Name: minecraft:leather
-<br>ID: 382, Name: minecraft:kelp
-<br>ID: 383, Name: minecraft:brick
-<br>ID: 384, Name: minecraft:clay_ball
-<br>ID: 385, Name: minecraft:sugar_cane
-<br>ID: 386, Name: minecraft:paper
-<br>ID: 387, Name: minecraft:book
-<br>ID: 388, Name: minecraft:slime_ball
-<br>ID: 389, Name: minecraft:chest_minecart
-<br>ID: 390, Name: minecraft:egg
-<br>ID: 391, Name: minecraft:compass
-<br>ID: 392, Name: minecraft:fishing_rod
-<br>ID: 393, Name: minecraft:clock
-<br>ID: 394, Name: minecraft:glowstone_dust
-<br>ID: 395, Name: minecraft:black_dye
-<br>ID: 396, Name: minecraft:red_dye
-<br>ID: 397, Name: minecraft:green_dye
-<br>ID: 398, Name: minecraft:brown_dye
-<br>ID: 399, Name: minecraft:blue_dye
-<br>ID: 400, Name: minecraft:purple_dye
-<br>ID: 401, Name: minecraft:cyan_dye
-<br>ID: 402, Name: minecraft:light_gray_dye
-<br>ID: 403, Name: minecraft:gray_dye
-<br>ID: 404, Name: minecraft:pink_dye
-<br>ID: 405, Name: minecraft:lime_dye
-<br>ID: 406, Name: minecraft:yellow_dye
-<br>ID: 407, Name: minecraft:light_blue_dye
-<br>ID: 408, Name: minecraft:magenta_dye
-<br>ID: 409, Name: minecraft:orange_dye
-<br>ID: 410, Name: minecraft:white_dye
-<br>ID: 411, Name: minecraft:bone_meal
-<br>ID: 412, Name: minecraft:cocoa_beans
-<br>ID: 413, Name: minecraft:ink_sac
-<br>ID: 414, Name: minecraft:lapis_lazuli
-<br>ID: 415, Name: minecraft:bone
-<br>ID: 416, Name: minecraft:sugar
-<br>ID: 417, Name: minecraft:cake
-<br>ID: 418, Name: minecraft:bed
-<br>ID: 419, Name: minecraft:repeater
-<br>ID: 420, Name: minecraft:filled_map
-<br>ID: 421, Name: minecraft:shears
-<br>ID: 422, Name: minecraft:ender_pearl
-<br>ID: 423, Name: minecraft:blaze_rod
-<br>ID: 424, Name: minecraft:ghast_tear
-<br>ID: 425, Name: minecraft:gold_nugget
-<br>ID: 426, Name: minecraft:potion
-<br>ID: 427, Name: minecraft:glass_bottle
-<br>ID: 428, Name: minecraft:fermented_spider_eye
-<br>ID: 429, Name: minecraft:blaze_powder
-<br>ID: 430, Name: minecraft:magma_cream
-<br>ID: 431, Name: minecraft:brewing_stand
-<br>ID: 432, Name: minecraft:cauldron
-<br>ID: 433, Name: minecraft:ender_eye
-<br>ID: 434, Name: minecraft:glistering_melon_slice
-<br>ID: 435, Name: minecraft:chicken_spawn_egg
-<br>ID: 436, Name: minecraft:cow_spawn_egg
-<br>ID: 437, Name: minecraft:pig_spawn_egg
-<br>ID: 438, Name: minecraft:sheep_spawn_egg
-<br>ID: 439, Name: minecraft:wolf_spawn_egg
-<br>ID: 440, Name: minecraft:mooshroom_spawn_egg
-<br>ID: 441, Name: minecraft:creeper_spawn_egg
-<br>ID: 442, Name: minecraft:enderman_spawn_egg
-<br>ID: 443, Name: minecraft:silverfish_spawn_egg
-<br>ID: 444, Name: minecraft:skeleton_spawn_egg
-<br>ID: 445, Name: minecraft:slime_spawn_egg
-<br>ID: 446, Name: minecraft:spider_spawn_egg
-<br>ID: 447, Name: minecraft:zombie_spawn_egg
-<br>ID: 448, Name: minecraft:zombie_pigman_spawn_egg
-<br>ID: 449, Name: minecraft:villager_spawn_egg
-<br>ID: 450, Name: minecraft:squid_spawn_egg
-<br>ID: 451, Name: minecraft:ocelot_spawn_egg
-<br>ID: 452, Name: minecraft:witch_spawn_egg
-<br>ID: 453, Name: minecraft:bat_spawn_egg
-<br>ID: 454, Name: minecraft:ghast_spawn_egg
-<br>ID: 455, Name: minecraft:magma_cube_spawn_egg
-<br>ID: 456, Name: minecraft:blaze_spawn_egg
-<br>ID: 457, Name: minecraft:cave_spider_spawn_egg
-<br>ID: 458, Name: minecraft:horse_spawn_egg
-<br>ID: 459, Name: minecraft:rabbit_spawn_egg
-<br>ID: 460, Name: minecraft:endermite_spawn_egg
-<br>ID: 461, Name: minecraft:guardian_spawn_egg
-<br>ID: 462, Name: minecraft:stray_spawn_egg
-<br>ID: 463, Name: minecraft:husk_spawn_egg
-<br>ID: 464, Name: minecraft:wither_skeleton_spawn_egg
-<br>ID: 465, Name: minecraft:donkey_spawn_egg
-<br>ID: 466, Name: minecraft:mule_spawn_egg
-<br>ID: 467, Name: minecraft:skeleton_horse_spawn_egg
-<br>ID: 468, Name: minecraft:zombie_horse_spawn_egg
-<br>ID: 469, Name: minecraft:shulker_spawn_egg
-<br>ID: 470, Name: minecraft:npc_spawn_egg
-<br>ID: 471, Name: minecraft:elder_guardian_spawn_egg
-<br>ID: 472, Name: minecraft:polar_bear_spawn_egg
-<br>ID: 473, Name: minecraft:llama_spawn_egg
-<br>ID: 474, Name: minecraft:vindicator_spawn_egg
-<br>ID: 475, Name: minecraft:evoker_spawn_egg
-<br>ID: 476, Name: minecraft:vex_spawn_egg
-<br>ID: 477, Name: minecraft:zombie_villager_spawn_egg
-<br>ID: 478, Name: minecraft:parrot_spawn_egg
-<br>ID: 479, Name: minecraft:tropical_fish_spawn_egg
-<br>ID: 480, Name: minecraft:cod_spawn_egg
-<br>ID: 481, Name: minecraft:pufferfish_spawn_egg
-<br>ID: 482, Name: minecraft:salmon_spawn_egg
-<br>ID: 483, Name: minecraft:drowned_spawn_egg
-<br>ID: 484, Name: minecraft:dolphin_spawn_egg
-<br>ID: 485, Name: minecraft:turtle_spawn_egg
-<br>ID: 486, Name: minecraft:phantom_spawn_egg
-<br>ID: 487, Name: minecraft:agent_spawn_egg
-<br>ID: 488, Name: minecraft:cat_spawn_egg
-<br>ID: 489, Name: minecraft:panda_spawn_egg
-<br>ID: 490, Name: minecraft:fox_spawn_egg
-<br>ID: 491, Name: minecraft:pillager_spawn_egg
-<br>ID: 492, Name: minecraft:wandering_trader_spawn_egg
-<br>ID: 493, Name: minecraft:ravager_spawn_egg
-<br>ID: 494, Name: minecraft:bee_spawn_egg
-<br>ID: 495, Name: minecraft:strider_spawn_egg
-<br>ID: 496, Name: minecraft:hoglin_spawn_egg
-<br>ID: 497, Name: minecraft:piglin_spawn_egg
-<br>ID: 498, Name: minecraft:zoglin_spawn_egg
-<br>ID: 499, Name: minecraft:piglin_brute_spawn_egg
-<br>ID: 500, Name: minecraft:axolotl_spawn_egg
-<br>ID: 501, Name: minecraft:goat_spawn_egg
-<br>ID: 502, Name: minecraft:glow_squid_spawn_egg
-<br>ID: 503, Name: minecraft:glow_ink_sac
-<br>ID: 504, Name: minecraft:copper_ingot
-<br>ID: 505, Name: minecraft:raw_iron
-<br>ID: 506, Name: minecraft:raw_gold
-<br>ID: 507, Name: minecraft:raw_copper
-<br>ID: 508, Name: minecraft:experience_bottle
-<br>ID: 509, Name: minecraft:fire_charge
-<br>ID: 510, Name: minecraft:writable_book
-<br>ID: 511, Name: minecraft:written_book
-<br>ID: 512, Name: minecraft:emerald
-<br>ID: 513, Name: minecraft:frame
-<br>ID: 514, Name: minecraft:flower_pot
-<br>ID: 515, Name: minecraft:empty_map
-<br>ID: 516, Name: minecraft:skull
-<br>ID: 517, Name: minecraft:carrot_on_a_stick
-<br>ID: 518, Name: minecraft:nether_star
-<br>ID: 519, Name: minecraft:firework_rocket
-<br>ID: 520, Name: minecraft:firework_star
-<br>ID: 521, Name: minecraft:enchanted_book
-<br>ID: 522, Name: minecraft:comparator
-<br>ID: 523, Name: minecraft:netherbrick
-<br>ID: 524, Name: minecraft:quartz
-<br>ID: 525, Name: minecraft:tnt_minecart
-<br>ID: 526, Name: minecraft:hopper_minecart
-<br>ID: 527, Name: minecraft:hopper
-<br>ID: 528, Name: minecraft:rabbit_foot
-<br>ID: 529, Name: minecraft:rabbit_hide
-<br>ID: 530, Name: minecraft:leather_horse_armor
-<br>ID: 531, Name: minecraft:iron_horse_armor
-<br>ID: 532, Name: minecraft:golden_horse_armor
-<br>ID: 533, Name: minecraft:diamond_horse_armor
-<br>ID: 534, Name: minecraft:music_disc_13
-<br>ID: 535, Name: minecraft:music_disc_cat
-<br>ID: 536, Name: minecraft:music_disc_blocks
-<br>ID: 537, Name: minecraft:music_disc_chirp
-<br>ID: 538, Name: minecraft:music_disc_far
-<br>ID: 539, Name: minecraft:music_disc_mall
-<br>ID: 540, Name: minecraft:music_disc_mellohi
-<br>ID: 541, Name: minecraft:music_disc_stal
-<br>ID: 542, Name: minecraft:music_disc_strad
-<br>ID: 543, Name: minecraft:music_disc_ward
-<br>ID: 544, Name: minecraft:music_disc_11
-<br>ID: 545, Name: minecraft:music_disc_wait
-<br>ID: 546, Name: minecraft:trident
-<br>ID: 547, Name: minecraft:lead
-<br>ID: 548, Name: minecraft:name_tag
-<br>ID: 549, Name: minecraft:prismarine_crystals
-<br>ID: 550, Name: minecraft:mutton
-<br>ID: 551, Name: minecraft:cooked_mutton
-<br>ID: 552, Name: minecraft:armor_stand
-<br>ID: 553, Name: minecraft:spruce_door
-<br>ID: 554, Name: minecraft:birch_door
-<br>ID: 555, Name: minecraft:jungle_door
-<br>ID: 556, Name: minecraft:acacia_door
-<br>ID: 557, Name: minecraft:dark_oak_door
-<br>ID: 558, Name: minecraft:chorus_fruit
-<br>ID: 559, Name: minecraft:popped_chorus_fruit
-<br>ID: 560, Name: minecraft:dragon_breath
-<br>ID: 561, Name: minecraft:splash_potion
-<br>ID: 562, Name: minecraft:lingering_potion
-<br>ID: 563, Name: minecraft:command_block_minecart
-<br>ID: 564, Name: minecraft:elytra
-<br>ID: 565, Name: minecraft:prismarine_shard
-<br>ID: 566, Name: minecraft:shulker_shell
-<br>ID: 567, Name: minecraft:banner
-<br>ID: 568, Name: minecraft:totem_of_undying
-<br>ID: 569, Name: minecraft:iron_nugget
-<br>ID: 570, Name: minecraft:nautilus_shell
-<br>ID: 571, Name: minecraft:heart_of_the_sea
-<br>ID: 572, Name: minecraft:scute
-<br>ID: 573, Name: minecraft:turtle_helmet
-<br>ID: 574, Name: minecraft:phantom_membrane
-<br>ID: 575, Name: minecraft:crossbow
-<br>ID: 576, Name: minecraft:spruce_sign
-<br>ID: 577, Name: minecraft:birch_sign
-<br>ID: 578, Name: minecraft:jungle_sign
-<br>ID: 579, Name: minecraft:acacia_sign
-<br>ID: 580, Name: minecraft:dark_oak_sign
-<br>ID: 581, Name: minecraft:flower_banner_pattern
-<br>ID: 582, Name: minecraft:creeper_banner_pattern
-<br>ID: 583, Name: minecraft:skull_banner_pattern
-<br>ID: 584, Name: minecraft:mojang_banner_pattern
-<br>ID: 585, Name: minecraft:field_masoned_banner_pattern
-<br>ID: 586, Name: minecraft:bordure_indented_banner_pattern
-<br>ID: 587, Name: minecraft:piglin_banner_pattern
-<br>ID: 588, Name: minecraft:campfire
-<br>ID: 589, Name: minecraft:suspicious_stew
-<br>ID: 590, Name: minecraft:honeycomb
-<br>ID: 591, Name: minecraft:honey_bottle
-<br>ID: 592, Name: minecraft:camera
-<br>
+| ID | Identifier |
+| --- | --- |
+| 0 | minecraft:air |
+| 1 | minecraft:stone |
+| 2 | minecraft:grass |
+| 3 | minecraft:dirt |
+| 4 | minecraft:cobblestone |
+| 5 | minecraft:planks |
+| 6 | minecraft:sapling |
+| 7 | minecraft:bedrock |
+| 8 | minecraft:flowing_water |
+| 9 | minecraft:water |
+| 10 | minecraft:flowing_lava |
+| 11 | minecraft:lava |
+| 12 | minecraft:sand |
+| 13 | minecraft:gravel |
+| 14 | minecraft:gold_ore |
+| 15 | minecraft:iron_ore |
+| 16 | minecraft:coal_ore |
+| 17 | minecraft:log |
+| 18 | minecraft:leaves |
+| 19 | minecraft:sponge |
+| 20 | minecraft:glass |
+| 21 | minecraft:lapis_ore |
+| 22 | minecraft:lapis_block |
+| 23 | minecraft:dispenser |
+| 24 | minecraft:sandstone |
+| 25 | minecraft:noteblock |
+| 26 | minecraft:bed |
+| 27 | minecraft:golden_rail |
+| 28 | minecraft:detector_rail |
+| 29 | minecraft:sticky_piston |
+| 30 | minecraft:web |
+| 31 | minecraft:tallgrass |
+| 32 | minecraft:deadbush |
+| 33 | minecraft:piston |
+| 34 | minecraft:pistonarmcollision |
+| 35 | minecraft:wool |
+| 36 | Unknown |
+| 37 | minecraft:yellow_flower |
+| 38 | minecraft:red_flower |
+| 39 | minecraft:brown_mushroom |
+| 40 | minecraft:red_mushroom |
+| 41 | minecraft:gold_block |
+| 42 | minecraft:iron_block |
+| 43 | minecraft:double_stone_slab |
+| 44 | minecraft:stone_slab |
+| 45 | minecraft:brick_block |
+| 46 | minecraft:tnt |
+| 47 | minecraft:bookshelf |
+| 48 | minecraft:mossy_cobblestone |
+| 49 | minecraft:obsidian |
+| 50 | minecraft:torch |
+| 51 | minecraft:fire |
+| 52 | minecraft:mob_spawner |
+| 53 | minecraft:oak_stairs |
+| 54 | minecraft:chest |
+| 55 | minecraft:redstone_wire |
+| 56 | minecraft:diamond_ore |
+| 57 | minecraft:diamond_block |
+| 58 | minecraft:crafting_table |
+| 59 | minecraft:wheat |
+| 60 | minecraft:farmland |
+| 61 | minecraft:furnace |
+| 62 | minecraft:lit_furnace |
+| 63 | minecraft:standing_sign |
+| 64 | minecraft:wooden_door |
+| 65 | minecraft:ladder |
+| 66 | minecraft:rail |
+| 67 | minecraft:stone_stairs |
+| 68 | minecraft:wall_sign |
+| 69 | minecraft:lever |
+| 70 | minecraft:stone_pressure_plate |
+| 71 | minecraft:iron_door |
+| 72 | minecraft:wooden_pressure_plate |
+| 73 | minecraft:redstone_ore |
+| 74 | minecraft:lit_redstone_ore |
+| 75 | minecraft:unlit_redstone_torch |
+| 76 | minecraft:redstone_torch |
+| 77 | minecraft:stone_button |
+| 78 | minecraft:snow_layer |
+| 79 | minecraft:ice |
+| 80 | minecraft:snow |
+| 81 | minecraft:cactus |
+| 82 | minecraft:clay |
+| 83 | minecraft:reeds |
+| 84 | minecraft:jukebox |
+| 85 | minecraft:fence |
+| 86 | minecraft:pumpkin |
+| 87 | minecraft:netherrack |
+| 88 | minecraft:soul_sand |
+| 89 | minecraft:glowstone |
+| 90 | minecraft:portal |
+| 91 | minecraft:lit_pumpkin |
+| 92 | minecraft:cake |
+| 93 | minecraft:unpowered_repeater |
+| 94 | minecraft:powered_repeater |
+| 95 | minecraft:invisiblebedrock |
+| 96 | minecraft:trapdoor |
+| 97 | minecraft:monster_egg |
+| 98 | minecraft:stonebrick |
+| 99 | minecraft:brown_mushroom_block |
+| 100 | minecraft:red_mushroom_block |
+| 101 | minecraft:iron_bars |
+| 102 | minecraft:glass_pane |
+| 103 | minecraft:melon_block |
+| 104 | minecraft:pumpkin_stem |
+| 105 | minecraft:melon_stem |
+| 106 | minecraft:vine |
+| 107 | minecraft:fence_gate |
+| 108 | minecraft:brick_stairs |
+| 109 | minecraft:stone_brick_stairs |
+| 110 | minecraft:mycelium |
+| 111 | minecraft:waterlily |
+| 112 | minecraft:nether_brick |
+| 113 | minecraft:nether_brick_fence |
+| 114 | minecraft:nether_brick_stairs |
+| 115 | minecraft:nether_wart |
+| 116 | minecraft:enchanting_table |
+| 117 | minecraft:brewing_stand |
+| 118 | minecraft:cauldron |
+| 119 | minecraft:end_portal |
+| 120 | minecraft:end_portal_frame |
+| 121 | minecraft:end_stone |
+| 122 | minecraft:dragon_egg |
+| 123 | minecraft:redstone_lamp |
+| 124 | minecraft:lit_redstone_lamp |
+| 125 | minecraft:dropper |
+| 126 | minecraft:activator_rail |
+| 127 | minecraft:cocoa |
+| 128 | minecraft:sandstone_stairs |
+| 129 | minecraft:emerald_ore |
+| 130 | minecraft:ender_chest |
+| 131 | minecraft:tripwire_hook |
+| 132 | minecraft:tripwire |
+| 133 | minecraft:emerald_block |
+| 134 | minecraft:spruce_stairs |
+| 135 | minecraft:birch_stairs |
+| 136 | minecraft:jungle_stairs |
+| 137 | minecraft:command_block |
+| 138 | minecraft:beacon |
+| 139 | minecraft:cobblestone_wall |
+| 140 | minecraft:flower_pot |
+| 141 | minecraft:carrots |
+| 142 | minecraft:potatoes |
+| 143 | minecraft:wooden_button |
+| 144 | minecraft:skull |
+| 145 | minecraft:anvil |
+| 146 | minecraft:trapped_chest |
+| 147 | minecraft:light_weighted_pressure_plate |
+| 148 | minecraft:heavy_weighted_pressure_plate |
+| 149 | minecraft:unpowered_comparator |
+| 150 | minecraft:powered_comparator |
+| 151 | minecraft:daylight_detector |
+| 152 | minecraft:redstone_block |
+| 153 | minecraft:quartz_ore |
+| 154 | minecraft:hopper |
+| 155 | minecraft:quartz_block |
+| 156 | minecraft:quartz_stairs |
+| 157 | minecraft:double_wooden_slab |
+| 158 | minecraft:wooden_slab |
+| 159 | minecraft:stained_hardened_clay |
+| 160 | minecraft:stained_glass_pane |
+| 161 | minecraft:leaves2 |
+| 162 | minecraft:log2 |
+| 163 | minecraft:acacia_stairs |
+| 164 | minecraft:dark_oak_stairs |
+| 165 | minecraft:slime |
+| 166 | Unknown |
+| 167 | minecraft:iron_trapdoor |
+| 168 | minecraft:prismarine |
+| 169 | minecraft:sealantern |
+| 170 | minecraft:hay_block |
+| 171 | minecraft:carpet |
+| 172 | minecraft:hardened_clay |
+| 173 | minecraft:coal_block |
+| 174 | minecraft:packed_ice |
+| 175 | minecraft:double_plant |
+| 176 | minecraft:standing_banner |
+| 177 | minecraft:wall_banner |
+| 178 | minecraft:daylight_detector_inverted |
+| 179 | minecraft:red_sandstone |
+| 180 | minecraft:red_sandstone_stairs |
+| 181 | minecraft:double_stone_slab2 |
+| 182 | minecraft:stone_slab2 |
+| 183 | minecraft:spruce_fence_gate |
+| 184 | minecraft:birch_fence_gate |
+| 185 | minecraft:jungle_fence_gate |
+| 186 | minecraft:dark_oak_fence_gate |
+| 187 | minecraft:acacia_fence_gate |
+| 188 | minecraft:repeating_command_block |
+| 189 | minecraft:chain_command_block |
+| 190 | minecraft:hard_glass_pane |
+| 191 | Unknown |
+| 192 | minecraft:chemical_heat |
+| 193 | minecraft:spruce_door |
+| 194 | minecraft:birch_door |
+| 195 | minecraft:jungle_door |
+| 196 | minecraft:acacia_door |
+| 197 | minecraft:dark_oak_door |
+| 198 | minecraft:grass_path |
+| 199 | minecraft:frame |
+| 200 | minecraft:chorus_flower |
+| 201 | minecraft:purpur_block |
+| 203 | minecraft:purpur_stairs |
+| 205 | minecraft:undyed_shulker_box |
+| 206 | minecraft:end_bricks |
+| 207 | minecraft:frosted_ice |
+| 208 | minecraft:end_rod |
+| 209 | minecraft:end_gateway |
+| 210 | minecraft:allow |
+| 211 | minecraft:deny |
+| 212 | minecraft:border_block |
+| 213 | minecraft:magma |
+| 214 | minecraft:nether_wart_block |
+| 215 | minecraft:red_nether_brick |
+| 216 | minecraft:bone_block |
+| 217 | minecraft:structure_void |
+| 218 | minecraft:shulker_box |
+| 219 | minecraft:purple_glazed_terracotta |
+| 220 | minecraft:white_glazed_terracotta |
+| 221 | minecraft:orange_glazed_terracotta |
+| 222 | minecraft:magenta_glazed_terracotta |
+| 223 | minecraft:light_blue_glazed_terracotta |
+| 224 | minecraft:yellow_glazed_terracotta |
+| 225 | minecraft:lime_glazed_terracotta |
+| 226 | minecraft:pink_glazed_terracotta |
+| 227 | minecraft:gray_glazed_terracotta |
+| 228 | minecraft:silver_glazed_terracotta |
+| 229 | minecraft:cyan_glazed_terracotta |
+| 231 | minecraft:blue_glazed_terracotta |
+| 232 | minecraft:brown_glazed_terracotta |
+| 233 | minecraft:green_glazed_terracotta |
+| 234 | minecraft:red_glazed_terracotta |
+| 235 | minecraft:black_glazed_terracotta |
+| 236 | minecraft:concrete |
+| 237 | minecraft:concretepowder |
+| 239 | minecraft:underwater_torch |
+| 240 | minecraft:chorus_plant |
+| 241 | minecraft:stained_glass |
+| 242 | minecraft:camera |
+| 243 | minecraft:podzol |
+| 244 | minecraft:beetroot |
+| 245 | minecraft:stonecutter |
+| 246 | minecraft:glowingobsidian |
+| 247 | minecraft:netherreactor |
+| 248 | minecraft:info_update |
+| 249 | minecraft:info_update2 |
+| 250 | minecraft:movingblock |
+| 251 | minecraft:observer |
+| 252 | minecraft:structure_block |
+| 253 | minecraft:hard_glass |
+| 255 | minecraft:reserved6 |
+| 257 | minecraft:apple |
+| 258 | minecraft:golden_apple |
+| 259 | minecraft:enchanted_golden_apple |
+| 260 | minecraft:mushroom_stew |
+| 261 | minecraft:bread |
+| 262 | minecraft:porkchop |
+| 263 | minecraft:cooked_porkchop |
+| 264 | minecraft:cod |
+| 265 | minecraft:salmon |
+| 266 | minecraft:tropical_fish |
+| 267 | minecraft:pufferfish |
+| 268 | minecraft:cooked_cod |
+| 269 | minecraft:cooked_salmon |
+| 270 | minecraft:dried_kelp |
+| 271 | minecraft:cookie |
+| 272 | minecraft:melon_slice |
+| 273 | minecraft:beef |
+| 274 | minecraft:cooked_beef |
+| 275 | minecraft:chicken |
+| 276 | minecraft:cooked_chicken |
+| 277 | minecraft:rotten_flesh |
+| 278 | minecraft:spider_eye |
+| 279 | minecraft:carrot |
+| 280 | minecraft:potato |
+| 281 | minecraft:baked_potato |
+| 282 | minecraft:poisonous_potato |
+| 283 | minecraft:golden_carrot |
+| 284 | minecraft:pumpkin_pie |
+| 285 | minecraft:beetroot |
+| 286 | minecraft:beetroot_soup |
+| 287 | minecraft:sweet_berries |
+| 288 | minecraft:rabbit |
+| 289 | minecraft:cooked_rabbit |
+| 290 | minecraft:rabbit_stew |
+| 291 | minecraft:wheat_seeds |
+| 292 | minecraft:pumpkin_seeds |
+| 293 | minecraft:melon_seeds |
+| 294 | minecraft:nether_wart |
+| 295 | minecraft:beetroot_seeds |
+| 296 | minecraft:iron_shovel |
+| 297 | minecraft:iron_pickaxe |
+| 298 | minecraft:iron_axe |
+| 299 | minecraft:flint_and_steel |
+| 300 | minecraft:bow |
+| 301 | minecraft:arrow |
+| 302 | minecraft:coal |
+| 303 | minecraft:charcoal |
+| 304 | minecraft:diamond |
+| 305 | minecraft:iron_ingot |
+| 306 | minecraft:gold_ingot |
+| 307 | minecraft:iron_sword |
+| 308 | minecraft:wooden_sword |
+| 309 | minecraft:wooden_shovel |
+| 310 | minecraft:wooden_pickaxe |
+| 311 | minecraft:wooden_axe |
+| 312 | minecraft:stone_sword |
+| 313 | minecraft:stone_shovel |
+| 314 | minecraft:stone_pickaxe |
+| 315 | minecraft:stone_axe |
+| 316 | minecraft:diamond_sword |
+| 317 | minecraft:diamond_shovel |
+| 318 | minecraft:diamond_pickaxe |
+| 319 | minecraft:diamond_axe |
+| 320 | minecraft:stick |
+| 321 | minecraft:bowl |
+| 322 | minecraft:golden_sword |
+| 323 | minecraft:golden_shovel |
+| 324 | minecraft:golden_pickaxe |
+| 325 | minecraft:golden_axe |
+| 326 | minecraft:string |
+| 327 | minecraft:feather |
+| 328 | minecraft:gunpowder |
+| 329 | minecraft:wooden_hoe |
+| 330 | minecraft:stone_hoe |
+| 331 | minecraft:iron_hoe |
+| 332 | minecraft:diamond_hoe |
+| 333 | minecraft:golden_hoe |
+| 334 | minecraft:wheat |
+| 335 | minecraft:leather_helmet |
+| 336 | minecraft:leather_chestplate |
+| 337 | minecraft:leather_leggings |
+| 338 | minecraft:leather_boots |
+| 339 | minecraft:chainmail_helmet |
+| 340 | minecraft:chainmail_chestplate |
+| 341 | minecraft:chainmail_leggings |
+| 342 | minecraft:chainmail_boots |
+| 343 | minecraft:iron_helmet |
+| 344 | minecraft:iron_chestplate |
+| 345 | minecraft:iron_leggings |
+| 346 | minecraft:iron_boots |
+| 347 | minecraft:diamond_helmet |
+| 348 | minecraft:diamond_chestplate |
+| 349 | minecraft:diamond_leggings |
+| 350 | minecraft:diamond_boots |
+| 351 | minecraft:golden_helmet |
+| 352 | minecraft:golden_chestplate |
+| 353 | minecraft:golden_leggings |
+| 354 | minecraft:golden_boots |
+| 355 | minecraft:shield |
+| 356 | minecraft:flint |
+| 357 | minecraft:painting |
+| 358 | minecraft:oak_sign |
+| 359 | minecraft:wooden_door |
+| 360 | minecraft:bucket |
+| 361 | minecraft:milk_bucket |
+| 362 | minecraft:water_bucket |
+| 363 | minecraft:lava_bucket |
+| 364 | minecraft:cod_bucket |
+| 365 | minecraft:salmon_bucket |
+| 366 | minecraft:tropical_fish_bucket |
+| 367 | minecraft:pufferfish_bucket |
+| 368 | minecraft:powder_snow_bucket |
+| 369 | minecraft:axolotl_bucket |
+| 370 | minecraft:minecart |
+| 371 | minecraft:saddle |
+| 372 | minecraft:iron_door |
+| 373 | minecraft:redstone |
+| 374 | minecraft:snowball |
+| 375 | minecraft:oak_boat |
+| 376 | minecraft:birch_boat |
+| 377 | minecraft:jungle_boat |
+| 378 | minecraft:spruce_boat |
+| 379 | minecraft:acacia_boat |
+| 380 | minecraft:dark_oak_boat |
+| 381 | minecraft:leather |
+| 382 | minecraft:kelp |
+| 383 | minecraft:brick |
+| 384 | minecraft:clay_ball |
+| 385 | minecraft:sugar_cane |
+| 386 | minecraft:paper |
+| 387 | minecraft:book |
+| 388 | minecraft:slime_ball |
+| 389 | minecraft:chest_minecart |
+| 390 | minecraft:egg |
+| 391 | minecraft:compass |
+| 392 | minecraft:fishing_rod |
+| 393 | minecraft:clock |
+| 394 | minecraft:glowstone_dust |
+| 395 | minecraft:black_dye |
+| 396 | minecraft:red_dye |
+| 397 | minecraft:green_dye |
+| 398 | minecraft:brown_dye |
+| 399 | minecraft:blue_dye |
+| 400 | minecraft:purple_dye |
+| 401 | minecraft:cyan_dye |
+| 402 | minecraft:light_gray_dye |
+| 403 | minecraft:gray_dye |
+| 404 | minecraft:pink_dye |
+| 405 | minecraft:lime_dye |
+| 406 | minecraft:yellow_dye |
+| 407 | minecraft:light_blue_dye |
+| 408 | minecraft:magenta_dye |
+| 409 | minecraft:orange_dye |
+| 410 | minecraft:white_dye |
+| 411 | minecraft:bone_meal |
+| 412 | minecraft:cocoa_beans |
+| 413 | minecraft:ink_sac |
+| 414 | minecraft:lapis_lazuli |
+| 415 | minecraft:bone |
+| 416 | minecraft:sugar |
+| 417 | minecraft:cake |
+| 418 | minecraft:bed |
+| 419 | minecraft:repeater |
+| 420 | minecraft:filled_map |
+| 421 | minecraft:shears |
+| 422 | minecraft:ender_pearl |
+| 423 | minecraft:blaze_rod |
+| 424 | minecraft:ghast_tear |
+| 425 | minecraft:gold_nugget |
+| 426 | minecraft:potion |
+| 427 | minecraft:glass_bottle |
+| 428 | minecraft:fermented_spider_eye |
+| 429 | minecraft:blaze_powder |
+| 430 | minecraft:magma_cream |
+| 431 | minecraft:brewing_stand |
+| 432 | minecraft:cauldron |
+| 433 | minecraft:ender_eye |
+| 434 | minecraft:glistering_melon_slice |
+| 435 | minecraft:chicken_spawn_egg |
+| 436 | minecraft:cow_spawn_egg |
+| 437 | minecraft:pig_spawn_egg |
+| 438 | minecraft:sheep_spawn_egg |
+| 439 | minecraft:wolf_spawn_egg |
+| 440 | minecraft:mooshroom_spawn_egg |
+| 441 | minecraft:creeper_spawn_egg |
+| 442 | minecraft:enderman_spawn_egg |
+| 443 | minecraft:silverfish_spawn_egg |
+| 444 | minecraft:skeleton_spawn_egg |
+| 445 | minecraft:slime_spawn_egg |
+| 446 | minecraft:spider_spawn_egg |
+| 447 | minecraft:zombie_spawn_egg |
+| 448 | minecraft:zombie_pigman_spawn_egg |
+| 449 | minecraft:villager_spawn_egg |
+| 450 | minecraft:squid_spawn_egg |
+| 451 | minecraft:ocelot_spawn_egg |
+| 452 | minecraft:witch_spawn_egg |
+| 453 | minecraft:bat_spawn_egg |
+| 454 | minecraft:ghast_spawn_egg |
+| 455 | minecraft:magma_cube_spawn_egg |
+| 456 | minecraft:blaze_spawn_egg |
+| 457 | minecraft:cave_spider_spawn_egg |
+| 458 | minecraft:horse_spawn_egg |
+| 459 | minecraft:rabbit_spawn_egg |
+| 460 | minecraft:endermite_spawn_egg |
+| 461 | minecraft:guardian_spawn_egg |
+| 462 | minecraft:stray_spawn_egg |
+| 463 | minecraft:husk_spawn_egg |
+| 464 | minecraft:wither_skeleton_spawn_egg |
+| 465 | minecraft:donkey_spawn_egg |
+| 466 | minecraft:mule_spawn_egg |
+| 467 | minecraft:skeleton_horse_spawn_egg |
+| 468 | minecraft:zombie_horse_spawn_egg |
+| 469 | minecraft:shulker_spawn_egg |
+| 470 | minecraft:npc_spawn_egg |
+| 471 | minecraft:elder_guardian_spawn_egg |
+| 472 | minecraft:polar_bear_spawn_egg |
+| 473 | minecraft:llama_spawn_egg |
+| 474 | minecraft:vindicator_spawn_egg |
+| 475 | minecraft:evoker_spawn_egg |
+| 476 | minecraft:vex_spawn_egg |
+| 477 | minecraft:zombie_villager_spawn_egg |
+| 478 | minecraft:parrot_spawn_egg |
+| 479 | minecraft:tropical_fish_spawn_egg |
+| 480 | minecraft:cod_spawn_egg |
+| 481 | minecraft:pufferfish_spawn_egg |
+| 482 | minecraft:salmon_spawn_egg |
+| 483 | minecraft:drowned_spawn_egg |
+| 484 | minecraft:dolphin_spawn_egg |
+| 485 | minecraft:turtle_spawn_egg |
+| 486 | minecraft:phantom_spawn_egg |
+| 487 | minecraft:agent_spawn_egg |
+| 488 | minecraft:cat_spawn_egg |
+| 489 | minecraft:panda_spawn_egg |
+| 490 | minecraft:fox_spawn_egg |
+| 491 | minecraft:pillager_spawn_egg |
+| 492 | minecraft:wandering_trader_spawn_egg |
+| 493 | minecraft:ravager_spawn_egg |
+| 494 | minecraft:bee_spawn_egg |
+| 495 | minecraft:strider_spawn_egg |
+| 496 | minecraft:hoglin_spawn_egg |
+| 497 | minecraft:piglin_spawn_egg |
+| 498 | minecraft:zoglin_spawn_egg |
+| 499 | minecraft:piglin_brute_spawn_egg |
+| 500 | minecraft:axolotl_spawn_egg |
+| 501 | minecraft:goat_spawn_egg |
+| 502 | minecraft:glow_squid_spawn_egg |
+| 503 | minecraft:glow_ink_sac |
+| 504 | minecraft:copper_ingot |
+| 505 | minecraft:raw_iron |
+| 506 | minecraft:raw_gold |
+| 507 | minecraft:raw_copper |
+| 508 | minecraft:experience_bottle |
+| 509 | minecraft:fire_charge |
+| 510 | minecraft:writable_book |
+| 511 | minecraft:written_book |
+| 512 | minecraft:emerald |
+| 513 | minecraft:frame |
+| 514 | minecraft:flower_pot |
+| 515 | minecraft:empty_map |
+| 516 | minecraft:skull |
+| 517 | minecraft:carrot_on_a_stick |
+| 518 | minecraft:nether_star |
+| 519 | minecraft:firework_rocket |
+| 520 | minecraft:firework_star |
+| 521 | minecraft:enchanted_book |
+| 522 | minecraft:comparator |
+| 523 | minecraft:netherbrick |
+| 524 | minecraft:quartz |
+| 525 | minecraft:tnt_minecart |
+| 526 | minecraft:hopper_minecart |
+| 527 | minecraft:hopper |
+| 528 | minecraft:rabbit_foot |
+| 529 | minecraft:rabbit_hide |
+| 530 | minecraft:leather_horse_armor |
+| 531 | minecraft:iron_horse_armor |
+| 532 | minecraft:golden_horse_armor |
+| 533 | minecraft:diamond_horse_armor |
+| 534 | minecraft:music_disc_13 |
+| 535 | minecraft:music_disc_cat |
+| 536 | minecraft:music_disc_blocks |
+| 537 | minecraft:music_disc_chirp |
+| 538 | minecraft:music_disc_far |
+| 539 | minecraft:music_disc_mall |
+| 540 | minecraft:music_disc_mellohi |
+| 541 | minecraft:music_disc_stal |
+| 542 | minecraft:music_disc_strad |
+| 543 | minecraft:music_disc_ward |
+| 544 | minecraft:music_disc_11 |
+| 545 | minecraft:music_disc_wait |
+| 546 | minecraft:trident |
+| 547 | minecraft:lead |
+| 548 | minecraft:name_tag |
+| 549 | minecraft:prismarine_crystals |
+| 550 | minecraft:mutton |
+| 551 | minecraft:cooked_mutton |
+| 552 | minecraft:armor_stand |
+| 553 | minecraft:spruce_door |
+| 554 | minecraft:birch_door |
+| 555 | minecraft:jungle_door |
+| 556 | minecraft:acacia_door |
+| 557 | minecraft:dark_oak_door |
+| 558 | minecraft:chorus_fruit |
+| 559 | minecraft:popped_chorus_fruit |
+| 560 | minecraft:dragon_breath |
+| 561 | minecraft:splash_potion |
+| 562 | minecraft:lingering_potion |
+| 563 | minecraft:command_block_minecart |
+| 564 | minecraft:elytra |
+| 565 | minecraft:prismarine_shard |
+| 566 | minecraft:shulker_shell |
+| 567 | minecraft:banner |
+| 568 | minecraft:totem_of_undying |
+| 569 | minecraft:iron_nugget |
+| 570 | minecraft:nautilus_shell |
+| 571 | minecraft:heart_of_the_sea |
+| 572 | minecraft:scute |
+| 573 | minecraft:turtle_helmet |
+| 574 | minecraft:phantom_membrane |
+| 575 | minecraft:crossbow |
+| 576 | minecraft:spruce_sign |
+| 577 | minecraft:birch_sign |
+| 578 | minecraft:jungle_sign |
+| 579 | minecraft:acacia_sign |
+| 580 | minecraft:dark_oak_sign |
+| 581 | minecraft:flower_banner_pattern |
+| 582 | minecraft:creeper_banner_pattern |
+| 583 | minecraft:skull_banner_pattern |
+| 584 | minecraft:mojang_banner_pattern |
+| 585 | minecraft:field_masoned_banner_pattern |
+| 586 | minecraft:bordure_indented_banner_pattern |
+| 587 | minecraft:piglin_banner_pattern |
+| 588 | minecraft:campfire |
+| 589 | minecraft:suspicious_stew |
+| 590 | minecraft:honeycomb |
+| 591 | minecraft:honey_bottle |
+| 592 | minecraft:camera |
