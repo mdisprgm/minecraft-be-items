@@ -2,6 +2,7 @@
 Minecraft Bedrock Edition Items IDs List
 
 <br>
+
 | ID | Identifier |
 | --- | --- |
 | 0 | minecraft:air |
