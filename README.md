@@ -1,6 +1,8 @@
 # minecraft-be-items
 Minecraft Bedrock Edition Items IDs List
 
+
+
 ID: 0, Name: minecraft:air
 
 ID: 1, Name: minecraft:stone
